@@ -1,4 +1,6 @@
-Hi dear! Am a web developer and an IT Specialist.
+Hello! 
+I'm currently learning Data Analytics.
+
 
 <!--
 **solomonnice/solomonnice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
